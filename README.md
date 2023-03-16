@@ -6,7 +6,8 @@
 
 this is another paragraph
 
-heres a list :
+### more detials
+here's a list:
  
  - First
  - Second
